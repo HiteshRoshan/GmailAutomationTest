@@ -13,6 +13,8 @@ import org.openqa.selenium.support.events.EventFiringWebDriver;
 
 import com.mail.qa.util.WebEventListener;
 
+
+//Base Class
 public class BaseClass {
 
 	public static WebDriver driver;
@@ -37,6 +39,8 @@ public class BaseClass {
 	}
 	public void initialization(){
 		if(prop.getProperty("browser").equals("chrome")){
+			
+			System.out.println(prop.getProperty("browser"));
 			System.setProperty("webdriver.chrome.driver", "E:\\Selenium Java\\chromedriver-new.exe");
 			driver=new ChromeDriver();
 			
