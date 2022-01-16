@@ -1,0 +1,4 @@
+com\mail\qa\testcase\gmailHomePageTest.class
+com\mail\qa\testcase\createAccountPageTest.class
+com\mail\qa\testcase\getStartedPageTest.class
+com\mail\qa\testcase\forWorkPageTest.class

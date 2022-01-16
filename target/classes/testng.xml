@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Gmail Application">
+    
+    
+    <listeners>
+        <listener class-name="com.mail.qa.ExtentReport.ExtentReporterNG"></listener>
+    </listeners>
+    <test name="Gmail Automation Testing">
+        
+        
+        <classes>
+            <class name="com.mail.qa.testcase.forWorkPageTest"></class>
+            <class name="com.mail.qa.testcase.gmailHomePageTest"></class>
+            <class name="com.mail.qa.testcase.getStartedPageTest"></class>
+            <class name="com.mail.qa.testcase.createAccountPageTest"></class>
+        </classes>
+        
+    </test>
+</suite>

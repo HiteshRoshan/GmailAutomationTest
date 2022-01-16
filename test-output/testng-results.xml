@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="11" passed="11">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Gmail Application" duration-ms="148635" started-at="2022-01-16T07:41:47Z" finished-at="2022-01-16T07:44:16Z">
+    <groups>
+    </groups>
+    <test name="Gmail Automation Testing" duration-ms="148635" started-at="2022-01-16T07:41:47Z" finished-at="2022-01-16T07:44:16Z">
+      <class name="com.mail.qa.testcase.createAccountPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.mail.qa.testcase.createAccountPageTest@543c6f6d]" name="setup" is-config="true" duration-ms="8877" started-at="2022-01-16T07:43:01Z" finished-at="2022-01-16T07:43:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="fillFormTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.mail.qa.testcase.createAccountPageTest@543c6f6d]" name="fillFormTest" duration-ms="951" started-at="2022-01-16T07:43:10Z" data-provider="getAccountTestData" finished-at="2022-01-16T07:43:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Hitesh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Roshan]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[HQA]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Welcome]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Welcome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillFormTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.mail.qa.testcase.createAccountPageTest@543c6f6d]" name="tearDown" is-config="true" duration-ms="860" started-at="2022-01-16T07:43:11Z" finished-at="2022-01-16T07:43:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.mail.qa.testcase.createAccountPageTest@543c6f6d]" name="setup" is-config="true" duration-ms="9083" started-at="2022-01-16T07:43:12Z" finished-at="2022-01-16T07:43:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="fillFormTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.mail.qa.testcase.createAccountPageTest@543c6f6d]" name="fillFormTest" duration-ms="981" started-at="2022-01-16T07:43:21Z" data-provider="getAccountTestData" finished-at="2022-01-16T07:43:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Anjali ]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Singh]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[AnjaliS]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Anj]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Anj]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillFormTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.mail.qa.testcase.createAccountPageTest@543c6f6d]" name="tearDown" is-config="true" duration-ms="888" started-at="2022-01-16T07:43:22Z" finished-at="2022-01-16T07:43:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.mail.qa.testcase.createAccountPageTest@543c6f6d]" name="setup" is-config="true" duration-ms="8241" started-at="2022-01-16T07:43:23Z" finished-at="2022-01-16T07:43:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="fillFormTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.mail.qa.testcase.createAccountPageTest@543c6f6d]" name="fillFormTest" duration-ms="975" started-at="2022-01-16T07:43:31Z" data-provider="getAccountTestData" finished-at="2022-01-16T07:43:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ayushman]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Rathod]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Ayush]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Ayushman]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Ayushman]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillFormTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.mail.qa.testcase.createAccountPageTest@543c6f6d]" name="tearDown" is-config="true" duration-ms="812" started-at="2022-01-16T07:43:32Z" finished-at="2022-01-16T07:43:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.mail.qa.testcase.createAccountPageTest -->
+      <class name="com.mail.qa.testcase.getStartedPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.mail.qa.testcase.getStartedPageTest@1d371b2d]" name="setup" is-config="true" duration-ms="19546" started-at="2022-01-16T07:43:33Z" finished-at="2022-01-16T07:43:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="regionTextTest()[pri:1, instance:com.mail.qa.testcase.getStartedPageTest@1d371b2d]" name="regionTextTest" duration-ms="35" started-at="2022-01-16T07:43:52Z" finished-at="2022-01-16T07:43:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- regionTextTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.mail.qa.testcase.getStartedPageTest@1d371b2d]" name="tearDown" is-config="true" duration-ms="906" started-at="2022-01-16T07:43:52Z" finished-at="2022-01-16T07:43:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.mail.qa.testcase.getStartedPageTest@1d371b2d]" name="setup" is-config="true" duration-ms="21383" started-at="2022-01-16T07:43:53Z" finished-at="2022-01-16T07:44:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="fillForm()[pri:2, instance:com.mail.qa.testcase.getStartedPageTest@1d371b2d]" name="fillForm" duration-ms="413" started-at="2022-01-16T07:44:15Z" finished-at="2022-01-16T07:44:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillForm -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.mail.qa.testcase.getStartedPageTest@1d371b2d]" name="tearDown" is-config="true" duration-ms="911" started-at="2022-01-16T07:44:15Z" finished-at="2022-01-16T07:44:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.mail.qa.testcase.getStartedPageTest -->
+      <class name="com.mail.qa.testcase.forWorkPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.mail.qa.testcase.forWorkPageTest@32eebfca]" name="setup" is-config="true" duration-ms="12195" started-at="2022-01-16T07:41:47Z" finished-at="2022-01-16T07:42:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="adminTextTest()[pri:0, instance:com.mail.qa.testcase.forWorkPageTest@32eebfca]" name="adminTextTest" duration-ms="69" started-at="2022-01-16T07:42:00Z" finished-at="2022-01-16T07:42:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adminTextTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.mail.qa.testcase.forWorkPageTest@32eebfca]" name="tearDown" is-config="true" duration-ms="691" started-at="2022-01-16T07:42:00Z" finished-at="2022-01-16T07:42:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.mail.qa.testcase.forWorkPageTest@32eebfca]" name="setup" is-config="true" duration-ms="10050" started-at="2022-01-16T07:42:00Z" finished-at="2022-01-16T07:42:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getStartedClickTest()[pri:0, instance:com.mail.qa.testcase.forWorkPageTest@32eebfca]" name="getStartedClickTest" duration-ms="6247" started-at="2022-01-16T07:42:10Z" finished-at="2022-01-16T07:42:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getStartedClickTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.mail.qa.testcase.forWorkPageTest@32eebfca]" name="tearDown" is-config="true" duration-ms="970" started-at="2022-01-16T07:42:17Z" finished-at="2022-01-16T07:42:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.mail.qa.testcase.forWorkPageTest -->
+      <class name="com.mail.qa.testcase.gmailHomePageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.mail.qa.testcase.gmailHomePageTest@4e718207]" name="setup" is-config="true" duration-ms="7214" started-at="2022-01-16T07:42:18Z" finished-at="2022-01-16T07:42:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="createAccountBtnClick()[pri:0, instance:com.mail.qa.testcase.gmailHomePageTest@4e718207]" name="createAccountBtnClick" duration-ms="3162" started-at="2022-01-16T07:42:25Z" finished-at="2022-01-16T07:42:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAccountBtnClick -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.mail.qa.testcase.gmailHomePageTest@4e718207]" name="tearDown" is-config="true" duration-ms="673" started-at="2022-01-16T07:42:28Z" finished-at="2022-01-16T07:42:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.mail.qa.testcase.gmailHomePageTest@4e718207]" name="setup" is-config="true" duration-ms="9787" started-at="2022-01-16T07:42:29Z" finished-at="2022-01-16T07:42:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="featureTitleTextTest()[pri:0, instance:com.mail.qa.testcase.gmailHomePageTest@4e718207]" name="featureTitleTextTest" duration-ms="40" started-at="2022-01-16T07:42:38Z" finished-at="2022-01-16T07:42:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- featureTitleTextTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.mail.qa.testcase.gmailHomePageTest@4e718207]" name="tearDown" is-config="true" duration-ms="796" started-at="2022-01-16T07:42:38Z" finished-at="2022-01-16T07:42:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.mail.qa.testcase.gmailHomePageTest@4e718207]" name="setup" is-config="true" duration-ms="5391" started-at="2022-01-16T07:42:39Z" finished-at="2022-01-16T07:42:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="forWorkBtnClickTest()[pri:0, instance:com.mail.qa.testcase.gmailHomePageTest@4e718207]" name="forWorkBtnClickTest" duration-ms="5292" started-at="2022-01-16T07:42:45Z" finished-at="2022-01-16T07:42:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forWorkBtnClickTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.mail.qa.testcase.gmailHomePageTest@4e718207]" name="tearDown" is-config="true" duration-ms="667" started-at="2022-01-16T07:42:50Z" finished-at="2022-01-16T07:42:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.mail.qa.testcase.gmailHomePageTest@4e718207]" name="setup" is-config="true" duration-ms="5603" started-at="2022-01-16T07:42:51Z" finished-at="2022-01-16T07:42:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="signInBtnClickTest()[pri:0, instance:com.mail.qa.testcase.gmailHomePageTest@4e718207]" name="signInBtnClickTest" duration-ms="3421" started-at="2022-01-16T07:42:56Z" finished-at="2022-01-16T07:43:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInBtnClickTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.mail.qa.testcase.gmailHomePageTest@4e718207]" name="tearDown" is-config="true" duration-ms="1036" started-at="2022-01-16T07:43:00Z" finished-at="2022-01-16T07:43:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.mail.qa.testcase.gmailHomePageTest -->
+    </test> <!-- Gmail Automation Testing -->
+  </suite> <!-- Gmail Application -->
+</testng-results>

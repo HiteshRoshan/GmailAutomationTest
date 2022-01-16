@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Gmail Application]">
+  <test thread-count="5" name="Gmail Automation Testing(failed)">
+    <classes>
+      <class name="com.mail.qa.testcase.gmailHomePageTest">
+        <methods>
+          <include name="featureTitleTextTest"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.mail.qa.testcase.gmailHomePageTest -->
+      <class name="com.mail.qa.testcase.getStartedPageTest">
+        <methods>
+          <include name="fillForm"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.mail.qa.testcase.getStartedPageTest -->
+    </classes>
+  </test> <!-- Gmail Automation Testing(failed) -->
+</suite> <!-- Failed suite [Gmail Application] -->
